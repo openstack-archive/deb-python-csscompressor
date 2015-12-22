@@ -22,7 +22,7 @@ Architecture: all
 Depends: ${misc:Depends},
          ${python:Depends},
 Description: python port of YUI CSS Compressor - Python 2.7
- The python-csscompressor package provides an almost exact port of YUI CSS
+ The Python csscompressor package provides an almost exact port of YUI CSS
  Compressor. It passes all original unittests.
  .
  This package contains the Python 2.7 module.
@@ -32,7 +32,7 @@ Architecture: all
 Depends: ${misc:Depends},
          ${python3:Depends},
 Description: python port of YUI CSS Compressor - Python 3.x
- The python-csscompressor package provides an almost exact port of YUI CSS
+ The Python csscompressor package provides an almost exact port of YUI CSS
  Compressor. It passes all original unittests.
  .
  This package contains the Python 3.x module.
