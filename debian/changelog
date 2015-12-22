@@ -1,5 +1,5 @@
 python-csscompressor (0.9.4-1) unstable; urgency=medium
 
-  * Initial release. (Closes: #XXXXXX)
+  * Initial release. (Closes: #808764)
 
  -- Thomas Goirand <zigo@debian.org>  Tue, 22 Dec 2015 11:25:29 +0100
