@@ -1,3 +1,9 @@
+python-csscompressor (0.9.4-2) unstable; urgency=medium
+
+  * Using python$$i -m pytest instead of py.test-$$i when running unit tests.
+
+ -- Thomas Goirand <zigo@debian.org>  Mon, 28 Dec 2015 09:16:56 +0000
+
 python-csscompressor (0.9.4-1) unstable; urgency=medium
 
   * Initial release. (Closes: #808764)
