@@ -1,3 +1,9 @@
+python-csscompressor (0.9.4-3) UNRELEASED; urgency=medium
+
+  * Fixed homepage (https).
+
+ -- Ondřej Nový <novy@ondrej.org>  Sun, 28 Feb 2016 15:35:01 +0100
+
 python-csscompressor (0.9.4-2) unstable; urgency=medium
 
   * Using python$$i -m pytest instead of py.test-$$i when running unit tests.

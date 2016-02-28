@@ -15,7 +15,7 @@ Build-Depends-Indep: python-pytest,
 Standards-Version: 3.9.6
 Vcs-Browser: http://anonscm.debian.org/gitweb/?p=openstack/python-csscompressor.git
 Vcs-Git: git://anonscm.debian.org/openstack/python-csscompressor.git
-Homepage: http://github.com/sprymix/csscompressor
+Homepage: https://github.com/sprymix/csscompressor
 
 Package: python-csscompressor
 Architecture: all
